@@ -1,0 +1,2 @@
+(\.|^)apple\.com$
+(\.|^)icloud\.com$
