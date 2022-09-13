@@ -6,15 +6,7 @@ video-stats.l.google.com
 ads-v-darwin.hulustream.com
 ads-e-darwin.hulustream.com
 
-# Apple Music
-itunes.apple.com
-s.mzstatic.com
-
-# Apple ID
-appleid.apple.com
-
 # iOS Weather app
-gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 
 # Captive Portals
@@ -25,7 +17,4 @@ connectivitycheck.gstatic.com
 msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
-captive.apple.com
-gsp1.apple.com
-www.apple.com
 www.appleiphonecell.com
