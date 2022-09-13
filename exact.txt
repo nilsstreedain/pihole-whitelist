@@ -1,20 +1,7 @@
-# YouTube History
-s.youtube.com
-video-stats.l.google.com
-
 # Hulu ads blocking playback
 ads-v-darwin.hulustream.com
 ads-e-darwin.hulustream.com
 
-# iOS Weather app
-gsp-ssl.ls-apple.com.akadns.net
-
 # Captive Portals
-connectivitycheck.android.com
-android.clients.google.com
-clients3.google.com
-connectivitycheck.gstatic.com
-msftncsi.com
-www.msftncsi.com
 ipv6.msftncsi.com
 www.appleiphonecell.com
